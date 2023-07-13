@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=precise-goals&" alt="precise-goals" /></p>
 
-<p><img align="left" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=precise-goals&show_icons=true&locale=en&layout=compact" alt="precise-goals" /></p>
+<p><img align="left" height=200 width=600 src="https://github-readme-stats.vercel.app/api/top-langs?username=precise-goals&show_icons=true&locale=en&layout=compact" alt="precise-goals" /></p>
 
-<p>&nbsp;<img align="right" height=200 src="https://github-readme-stats.vercel.app/api?username=precise-goals&show_icons=true&locale=en" alt="precise-goals" /></p>
+<p>&nbsp;<img align="right" height=200  width=600 src="https://github-readme-stats.vercel.app/api?username=precise-goals&show_icons=true&locale=en" alt="precise-goals" /></p>
 
