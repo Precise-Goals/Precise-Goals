@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
+![image](https://github.com/Precise-Goals/Precise-Goals/assets/125793243/5f7a0fd2-a945-4638-9ee5-a8694c404898)![image](https://github.com/Precise-Goals/Precise-Goals/assets/125793243/018b1750-f42e-4475-a582-5c5d4d2eea9a)<h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
 <h4 align="center">A passionate and growing mindset of youthful India.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
 
 <p align="center"> <a href="https://twitter.com/elite_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/elite_sarthak?logo=twitter&style=for-the-badge" alt="elite_sarthak" /></a> </p>
-<img align="right" height=175 alt="Coding" src="https://img.freepik.com/premium-vector/programmer-coder-concentrated-working-project-developing-programming-coding-technologies_569013-338.jpg?w=2000">
+<img align="right" height=175 alt="Coding" src="https://cdn.discordapp.com/attachments/1080886691067338815/1129055007371690044/image-removebg-preview.png">
 <div align="left" min-height=350>
 <p> 🔭 I’m currently working on Newton.Ai (my own ai) </p>
 <p> 🌱 I’m currently learning Python, Rust and Angular frameworks. </p>
