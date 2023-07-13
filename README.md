@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
 <h4 align="center">A passionate and growing mindset of youthful India.</h4>
-<!-- <img align="right" width=400 alt="Coding" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY="> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
 
@@ -16,6 +15,8 @@
 <br>
 <p> ⚡ Fun fact **I am 17 years old JEE Aspirant :)** </p>
 <div/>
+<img align="right" width=400 alt="Coding" src="[https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=](https://avatars.githubusercontent.com/u/125793243?v=4)">
+  
 <h3 align="center">Connect with me:</h3> </p>
 <p align="center">
 <a href="https://twitter.com/elite_sarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elite_sarthak" height="30" width="40" /></a>
