@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
-<h3 align="center">A passionate and growing mindset of youthful India.</h3>
+<h4 align="center">A passionate and growing mindset of youthful India.</h4>
 <img align="right" width=400 alt="Coding" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elite_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/elite_sarthak?logo=twitter&style=for-the-badge" alt="elite_sarthak" /></a> </p>
+<p align="center"> <a href="https://twitter.com/elite_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/elite_sarthak?logo=twitter&style=for-the-badge" alt="elite_sarthak" /></a> </p>
+<div aligh="center">
+ 🔭 I’m currently working on **Newton.Ai (my own ai)**
 
-- 🔭 I’m currently working on **Newton.Ai (my own ai)**
+ 🌱 I’m currently learning **Python, Rust and Angular frameworks.**
 
-- 🌱 I’m currently learning **Python, Rust and Angular frameworks.**
+ 💬 Ask me about **Web development and Machine Learning**
 
-- 💬 Ask me about **Web development and Machine Learning**
+ 📫 How to reach me **elitesarthakamr@gmail.com**
 
-- 📫 How to reach me **elitesarthakamr@gmail.com**
-
-- ⚡ Fun fact **I am 17 years old JEE Aspirant :)**
-
+ ⚡ Fun fact **I am 17 years old JEE Aspirant :)**
+<div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elite_sarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elite_sarthak" height="30" width="40" /></a>
