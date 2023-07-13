@@ -1,4 +1,4 @@
-![image](https://github.com/Precise-Goals/Precise-Goals/assets/125793243/5f7a0fd2-a945-4638-9ee5-a8694c404898)![image](https://github.com/Precise-Goals/Precise-Goals/assets/125793243/018b1750-f42e-4475-a582-5c5d4d2eea9a)<h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
+<h1 font-weight=700 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
 <h4 align="center">A passionate and growing mindset of youthful India.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
