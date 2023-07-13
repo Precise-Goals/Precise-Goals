@@ -18,9 +18,9 @@
 <div/>
 <br>
 <br>
-<br>
 
-<hr color="#ffffff" align="center" background="#fff">
+
+<hr color="#fff" align="center" background="#fff">
 
   
 <h3 align="center">Connect with me:</h3> </p>
