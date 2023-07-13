@@ -40,5 +40,5 @@
 <br>
 <p margin-left=25% align="center" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=precise-goals&" alt="precise-goals" /></p>
 <br>
-<p><img align="left" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=precise-goals&show_icons=true&locale=en&layout=compact" alt="precise-goals" /></p>
+<p><img align="left" margin=25% width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=precise-goals&show_icons=true&locale=en&layout=compact" alt="precise-goals" /></p>
 <br>
