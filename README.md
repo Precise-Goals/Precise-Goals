@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Tulsidas Patil</h1>
 <h4 align="center">A passionate and growing mindset of youthful India.</h4>
-<img align="right" width=400 alt="Coding" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY=">
+<!-- <img align="right" width=400 alt="Coding" src="https://media.istockphoto.com/id/956073060/vector/isometric-developing-programming-and-coding-technologies-young-programmer-coding-a-new.jpg?s=612x612&w=0&k=20&c=9AzbzI3aA9-wtiyGmntbEMpHcQ9BNshMSRaqUwjn2NY="> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=precise-goals&label=Profile%20views&color=0e75b6&style=flat" alt="precise-goals" /> </p>
 
