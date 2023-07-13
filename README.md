@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/elite_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/elite_sarthak?logo=twitter&style=for-the-badge" alt="elite_sarthak" /></a> </p>
 <img align="right" width=350 alt="Coding" src="https://avatars.githubusercontent.com/u/125793243?v=4">
-<div align="left">
+<div align="left" min-height=350>
 <p> 🔭 I’m currently working on **Newton.Ai (my own ai)** </p>
 <br>
 <p> 🌱 I’m currently learning **Python, Rust and Angular frameworks.** </p>
