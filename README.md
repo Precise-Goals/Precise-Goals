@@ -16,7 +16,7 @@
 <br>
 
 
-<hr color="#fff" align="center" background="#fff" background-color = var(--borderColor-default,#fff) border-radius= 5>
+<hr color="#fff" align="center" background="#fff" background-color = #ffffff border-radius= 5>
 
   
 <h3 align="center">Connect with me:</h3> </p>
