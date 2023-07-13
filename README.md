@@ -40,7 +40,7 @@
 <br>
 <p margin-left=25% align="center" ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=precise-goals&" alt="precise-goals" /></p>
 <br>
-<div display=flex >
+<div classname="bottom2" display="flex" >
 <p><img align="left" width=46% src="https://github-readme-stats.vercel.app/api/top-langs?username=precise-goals&show_icons=true&locale=en&layout=compact" alt="precise-goals" /></p>
 <p>&nbsp;<img align="right" width=46% src="https://github-readme-stats.vercel.app/api?username=precise-goals&show_icons=true&locale=en" alt="precise-goals" /></p>
 </div>
