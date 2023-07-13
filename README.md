@@ -16,6 +16,10 @@
 <br>
 <p> ⚡ Fun fact **I am 17 years old JEE Aspirant :)** </p>
 <div/>
+
+
+<hr color="#ffffff">
+
   
 <h3 align="center">Connect with me:</h3> </p>
 
