@@ -6,11 +6,11 @@
 <p align="center"> <a href="https://twitter.com/elite_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/elite_sarthak?logo=twitter&style=for-the-badge" alt="elite_sarthak" /></a> </p>
 <img align="right" height=250 alt="Coding" src="https://cdn.discordapp.com/attachments/1080886691067338815/1129055007371690044/image-removebg-preview.png">
 <div align="left" min-height=350>
-<p> 🔭 I’m currently working on Newton.Ai (my own ai) </p>
-<p> 🌱 I’m currently learning Python, Rust and Angular frameworks. </p>
-<p> 💬 Ask me about Web development and Machine Learning </p>
-<p> 📫 How to reach me elitesarthakamr@gmail.com </p>
-<p> ⚡ Fun fact : I am 17 years old JEE Aspirant :) </p>
+<p> 🌟 I’m currently working on Newton.Ai (my own ai) </p>
+<p> 🌟 I’m currently learning Python, Rust and Angular frameworks. </p>
+<p> 🌟 Ask me about Web development and Machine Learning </p>
+<p> 🌟 How to reach me elitesarthakamr@gmail.com </p>
+<p> 🌟 Fun fact : I am 17 years old JEE Aspirant :) </p>
 <div/>
 <br>
 <br>
