@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Building My Radium App<br>🌟 Open Source @FadaClub<br> - Contributing, learning, and growing with a vibrant community. 🌍<br>🌟 Developing My Portfolio<br> - Showcasing my journey in tech and building Network with mindfull peeps. 🎨<br>🌟 Currently persuing CS50 Harvard<br>🌟 Fun Fact - Cycling, Badminton, and Cricket keep me moving. 🚴🏸🏏
+🌟 Building My Radium App<br>🌟 Open Source @FadaClub<br>ㅤ - Contributing, learning, and growing with a vibrant community. 🌍<br>🌟 Developing My Portfolio<br>ㅤ - Showcasing my journey in tech and building Network with mindfull peeps. 🎨<br>🌟 Currently persuing CS50 Harvard<br>🌟 Fun Fact - Cycling, Badminton, and Cricket keep me moving. 🚴🏸🏏
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
