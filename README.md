@@ -2,7 +2,7 @@
 🌟 Building Internal Hackathon Community <br>🌟 Open Source @FadaClub<br>ㅤㅤ|- Contributing, learning, and growing with a vibrant community. 🌍<br>🌟 Developing My Portfolio<br>ㅤㅤ|- Showcasing my journey in tech and building Network with mindfull peeps. 🎨<br>🌟 Currently persuing CS50 Harvard<br>🌟 Fun Fact - Cycling, Badminton, and Boxing keep me moving. 🚴🏸🏏
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=discord)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Precise-Goals&icon=8&color=12)](https://visitcount.itsvg.in)
