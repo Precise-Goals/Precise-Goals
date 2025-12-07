@@ -2,10 +2,8 @@
 🌟 Building Falcons - Coding Hub at NMIET <br>ㅤㅤ|- Contributing, learning, and growing with a vibrant community. 🌍<br>🌟 Developing My Portfolio<br>ㅤㅤ|- Showcasing my journey in tech and building Network with mindfull peeps. 🎨<br>🌟 Currently persuing CS50 Harvard<br>🌟 Fun Fact - Cycling, Badminton, and Boxing keep me moving. 🚴🏸🏏
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=discord&no-frame=true&no-bg=false&margin-w=1)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5" />
-</div>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5&no-bg=true&no-frame=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Precise-Goals&icon=8&color=12)](https://visitcount.itsvg.in)
