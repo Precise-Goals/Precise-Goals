@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5&no-bg=true&no-frame=true
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5&no-bg=true&no-frame=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Precise-Goals&icon=8&color=12)](https://visitcount.itsvg.in)
