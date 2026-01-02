@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="start">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5&no-bg=true"
     alt="GitHub Trophies"
