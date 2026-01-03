@@ -4,37 +4,16 @@
 [![](https://visitcount.itsvg.in/api?id=Precise-Goals&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-
-<p align="start">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=monokai&no-bg=false&margin-w=4"
-    alt="GitHub Trophies"
-    style="border:none;stroke:none; outline:none; box-shadow:none;"
-  />
-</p>
-
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
-# 💻 Tech Stack:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Precise-Goals&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Precise-Goals&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Precise-Goals&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Precise-Goals&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -55,6 +34,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Precise-Goals&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/949489773372907590) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/precisegoals.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaktpatil) 
