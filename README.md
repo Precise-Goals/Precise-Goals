@@ -5,7 +5,7 @@
 
 <p align="start">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Precise-Goals&theme=gruvbox&column=5&no-bg=true&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=Snehapatidar2207&theme=monokai&no-frame=true&no-bg=false&margin-w=4"
     alt="GitHub Trophies"
     style="border:none;stroke:none; outline:none; box-shadow:none;"
   />
