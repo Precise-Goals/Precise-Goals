@@ -3,7 +3,7 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=false)
+![](https://github-trophies.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=false&no-bg=true)
 
 ---
 # 💻 Tech Stack:
