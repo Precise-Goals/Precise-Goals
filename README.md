@@ -2,10 +2,6 @@
 🌟 Joint Freelancing and Corporate world 🫠 <br>ㅤㅤ|- Contributing, learning, and growing with a vibrant community. 🌍<br>🌟 Developing My Identity<br>ㅤㅤ|- Showcasing my journey in tech and building Network with mindfull peeps. 🎨<br>🌟 Currently persuing CS50 Harvard<br>🌟 Fun Fact - Cycling, Badminton, and Boxing keep me moving. 🚴🏸🏏
 
 
-```
-hello
-```
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=true&no-bg=true)
