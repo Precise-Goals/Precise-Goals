@@ -15,7 +15,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precise-Goals&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Precise-Goals&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Precise-Goals&theme=gruvbox)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Precise-Goals&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=gruvbox" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar15769&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=gruvbox" />
 ---
 
 ### ✍️ Random Dev Quote
