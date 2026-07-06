@@ -4,10 +4,9 @@
 Bridging deep-tech AI research with scalable, production-ready web architecture. I specialize in architecting robust MLOps pipelines and shipping zero-dependency AI infrastructure. 
 
 ### 💡 Professional Highlights
-* **Founder at Quintoxa & Falcons Technical Ecosystem:** Architecting scalable AI frameworks and building a robust, high-impact community for developers.
+* **Founder at Quintoxa:** Architecting scalable AI frameworks and full-stack web infrastructure.
 * **Serial Hackathon Competitor:** Competed in 60+ development hackathons (building end-to-end products, not DSA contests), earning 15+ recognitions for shipping complex infrastructure under extreme time constraints.
-* **GDGoC Lead:** Scaling the developer ecosystem, managing technical initiatives, and empowering the next generation of builders.
-
+* **Founder of Falcons Ecosystem:** Built a massive technical community from scratch, scaling to a family of 1,300+ members and managing a 45+ person core team. This overarching ecosystem officially encompasses and drives our campus's GDGoC chapter.
 ---
 
 ### 💻 Technical Arsenal
