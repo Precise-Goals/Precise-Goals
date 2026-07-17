@@ -26,56 +26,6 @@ Bridging deep-tech AI research with scalable, production-ready web architecture.
 #### **Cloud, DevOps & Architecture**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-### 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img
-  src="https://github-trophies.vercel.app/?username=Precise-Goals&theme=gruvbox&no-frame=true&no-bg=true"
-  width="80%"
-/>
-
-<br><br>
-
-<table width="100%">
-  <!-- Row 1 -->
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Precise-Goals&theme=gruvbox"
-        width="100%"
-      />
-    </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td width="40%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Precise-Goals&theme=gruvbox"
-        width="100%"
-      />
-    </td>
-    <td width="60%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Precise-Goals&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=gruvbox" width="100%" />
-    </td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
-        width="550"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
